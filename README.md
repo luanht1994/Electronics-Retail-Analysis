@@ -1,6 +1,6 @@
 # Electronics Retail Analysis
 Using Power BI tool to visualize all insights.  
-[Electronics Retail Analysis - Power BI link](https://mavenanalytics.io/project/29702)
+[Electronics Retail Analysis - Power BI link](https://mavenshowcase.com/project/29702)
 ### Over view
 
 #### Overall Performance:
