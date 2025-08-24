@@ -1,5 +1,6 @@
 # Electronics Retail Analysis
-
+Using Power BI tool to visualize all insights.  
+[Electronics Retail Analysis - Power BI link](https://mavenanalytics.io/project/29702)
 ### Over view
 
 #### Overall Performance:
@@ -44,8 +45,7 @@ The "Returning Customer after first order month" table shows strong initial rete
 Months 4-7 after the first order show relatively strong retention rates (typically 6-11%)
 Later months (8-11) maintain respectable retention percentages, reaching 13% in some cases
 
-Using Power BI tool to visualize all insights.  
-[Electronics Retail Analysis - Power BI link](https://mavenanalytics.io/project/29702)
+
 
 
  
